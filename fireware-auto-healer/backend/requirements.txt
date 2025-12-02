@@ -1,0 +1,6 @@
+flask
+flask-cors
+werkzeug
+torch
+transformers
+sentence-transformers
